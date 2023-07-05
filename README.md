@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./images/logo.png" width="400px" />
+  <img src="http://localhost/dohub/index.php#" width="400px" />
 </div>
 
 <br>
@@ -8,9 +8,6 @@
 
 <br>
 <br>
-
-<h3 align="center"><a href="https://react-landmarks.netlify.app/">Try me!</a></h3>
-
 ## Technologies Used
 
 <a href="https://reactjs.org/"><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/react/react-original.svg" height="50px" /></a>
