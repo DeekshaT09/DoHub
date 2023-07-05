@@ -1,16 +1,10 @@
-<div align="center">
-  <img src="https://cdn.dribbble.com/users/2146370/screenshots/9344637/media/0059834c5239c93f30c78514086c04a5.gif" width="400px" />
-</div>
-
-<br>
-
-<h3 align="center">A static page showing landmarks around the globe </h3>
+<h3 align="center">DOHUB - EMPLOYEE TASK MANAGEMENT SYSTEM</h3>
 
 <br>
 <br>
-## Technologies Used
+## TECHNOLOGIES USED
 
-<a href="https://reactjs.org/"><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/react/react-original.svg" height="50px" /></a>
+<a href="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png"><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" height="50px" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.typescriptlang.org/"><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/typescript/typescript-original.svg" height="50px" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
