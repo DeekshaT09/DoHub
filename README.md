@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="http://localhost/dohub/index.php#" width="400px" />
+  <img src="https://cdn.dribbble.com/users/2146370/screenshots/9344637/media/0059834c5239c93f30c78514086c04a5.gif" width="400px" />
 </div>
 
 <br>
